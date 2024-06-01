@@ -6,9 +6,9 @@
 </head>
 <body>
 <div id="main">
-<h1>Telegram bot с нуля</h1>
+<h1>TГвоздетерапия, гвоздестояние.</h1>
 <img src=" https://fuzeservers.ru/wp-content/uploads/e/6/5/e6582e3f04d623bb4823f869c9a53c5d.png ">
-<p> Учимся создавать telegram бота с нуля </p>
-<button id="buy"> Купить курс</button>
+<p> Канал Людмилы и Алексея Семушевых </p>
+<button id="buy"> Приобрести подписку</button>
 </body>
 </html>
